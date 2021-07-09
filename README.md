@@ -6,10 +6,5 @@
 - Prototype_code/    -- Prototypes of future features/ boilerplate code for OCR
 - dnt/              -- Main django project source code
 
-
-
-Email account information used to send email verify link
-
-curtincapstone@gmail.com
-
-
+## Project Overview
+Extract text from medical prescription images and then search MIMS database and present the information in a useful and meaningful way.
